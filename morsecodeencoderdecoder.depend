@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1551203896 source:c:\users\rakibpranto\desktop\morsecodeencoderdecoder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<process.h>
+	<ctype.h>
+	"codeencoder.h"
+	"codedecoder.h"
+	"reg.h"
+	"Log_in.h"
+	"Search.h"
+	"Delete.h"
+	"options.h"
+	"menu.h"
+	"bypass.h"
+	"view.h"
+
+1551172857 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\codeencoder.h
+
+1551149374 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\codedecoder.h
+
+1551173246 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\reg.h
+
+1547474312 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\login.h
+
+1551202021 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\log_in.h
+
+1551206532 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\search.h
+
+1551205681 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\delete.h
+
+1551206804 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\options.h
+
+1550213132 source:c:\users\lenovo\desktop\morsecodeencoderdecoder\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<process.h>
+	<ctype.h>
+	"codeencoder.h"
+	"codedecoder.h"
+	"reg.h"
+	"Log_in.h"
+	"Search.h"
+	"Delete.h"
+	"options.h"
+	"menu.h"
+
+1549952510 c:\users\lenovo\desktop\morsecodeencoderdecoder\codeencoder.h
+
+1549959478 c:\users\lenovo\desktop\morsecodeencoderdecoder\codedecoder.h
+
+1550213507 c:\users\lenovo\desktop\morsecodeencoderdecoder\reg.h
+
+1547485980 c:\users\lenovo\desktop\morsecodeencoderdecoder\log_in.h
+
+1549952476 c:\users\lenovo\desktop\morsecodeencoderdecoder\search.h
+
+1550166445 c:\users\lenovo\desktop\morsecodeencoderdecoder\delete.h
+
+1549948434 c:\users\lenovo\desktop\morsecodeencoderdecoder\options.h
+
+1550213452 c:\users\lenovo\desktop\morsecodeencoderdecoder\menu.h
+
+1551167048 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\menu.h
+
+1550565785 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\bypass.h
+
+1550409910 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\stop.h
+
+1550565785 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\bypass2.h
+
+1550565785 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\bypass3.h
+
+1551205230 c:\users\rakibpranto\desktop\morsecodeencoderdecoder\view.h
+
